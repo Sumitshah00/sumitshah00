@@ -1,90 +1,251 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Sumitshah00&color=blue&style=flat)
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Sumitshah00.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture"/>
-</p>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=HACKSAGE&fontSize=80&fontColor=00ff41&fontAlignY=38&desc=Sumit%20Shah%20%E2%80%94%20Offensive%20Security%20Operator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<h1 align="center">Hi there, I'm HACKSAGE (Sumit Shah) ✨</h1>
-<p align="center">
-  <b>Ethical Hacker | Cybersecurity Enthusiast | Open Source Contributor</b>
-</p>
+<!-- PROFILE PIC WITH CYBER RING -->
+<br/>
+<img src="https://github.com/Sumitshah00.png" width="130" style="border-radius:50%;border:3px solid #00ff41;" alt="HACKSAGE"/>
 
----
+<br/><br/>
 
-### 🚀 About Me:
-- 🔥 Passionate about **ethical hacking, OSINT, and cybersecurity**.
-- 🛠️ Building powerful tools for **pentesting, automation, and OSINT**.
-- 🔗 Sharing hacking knowledge & tutorials via **HackSage**.
-- 🖥️ Skilled in **Python, Go, Bash, and Linux security**.
-- 🌍 Exploring and contributing to open-source security projects.
-- 📚 Continuously learning and improving my cybersecurity skills.
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Offensive+Security+%7C+Bug+Bounty+Hunter;Red+Teamer+%7C+Vulnerability+Researcher;Breaking+Systems+to+Understand+Them." alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitshah00&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumitshah00&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitshah00&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sumitshah00&theme=radical" alt="GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sumitshah00&theme=radical" alt="GitHub Activity Graph" />
-</p>
+<!-- PROFILE VIEWS + SOCIAL BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sumitshah00&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Sumitshah00?style=for-the-badge&color=00ff41&labelColor=0d0d0d&label=FOLLOWERS)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-303030?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-990000?style=for-the-badge&logo=john-the-ripper&logoColor=white" alt="John the Ripper" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-F36F22?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Parrot%20OS-9F39F8?style=for-the-badge&logo=parrot-os&logoColor=white" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OSINT-FF5733?style=for-the-badge&logo=osint&logoColor=white" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Network%20Security-0078D4?style=for-the-badge&logo=security&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Web%20Security-4CAF50?style=for-the-badge&logo=web-security&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Exploit%20Development-800000?style=for-the-badge&logo=exploit-development&logoColor=white" alt="Exploit Development" />
-</p>
+```
+ ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗ █████╗  ██████╗ ███████╗
+ ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗██╔════╝ ██╔════╝
+ ███████║███████║██║     █████╔╝ ███████╗███████║██║  ███╗█████╗
+ ██╔══██║██╔══██║██║     ██╔═██╗ ╚════██║██╔══██║██║   ██║██╔══╝
+ ██║  ██║██║  ██║╚██████╗██║  ██╗███████║██║  ██║╚██████╔╝███████╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+                  [ Offensive Security | Bug Bounty | Red Team ]
+```
 
 ---
 
-### 📌 Featured Projects:
-- 🚀 [**byteassassinsXddos**](https://github.com/Sumitshah00/byteassassinsXddos) - A Go-based DDoS tool (⭐ 2 stars)
-- 🔍 [**h4ck1nsta**](https://github.com/Sumitshah00/h4ck1nsta) - Instagram OSINT tool in Python (⭐ 1 star)
-- 🛠️ [**John-the-Ripper**](https://github.com/Sumitshah00/John-the-Ripper) - Password cracking tool (⭐ 1 star)
-- 🔥 [**juice-shop**](https://github.com/Sumitshah00/juice-shop) - OWASP web security practice lab
+<div align="center">
+
+### `whoami`
+
+</div>
+
+```bash
+┌──(hacksage㉿kali)-[~/]
+└─$ cat operator_profile.txt
+
+  ALIAS     : HACKSAGE
+  REALNAME  : Sumit Shah
+  DOMAIN    : Offensive Security | Bug Bounty | Red Team
+  APPROACH  : Break first. Understand always. Report with impact.
+  OBJECTIVE : High-signal vulnerability discovery @ exploit depth
+  STATUS    : [■■■■■■■■░░] HUNTING...
+```
 
 ---
 
-### 📫 Connect with Me:
-- 📝 **GitHub**: [Sumitshah00](https://github.com/Sumitshah00)
-- 🔗 **Instagram**: [@hacksage](https://instagram.com/hacksagex)
-- 📺 **YouTube**: [HackSage](https://www.youtube.com/HackSageX)
-- 💬 **Telegram**: [HackSage](https://t.me/)
+<div align="center">
+
+### `./current_ops --list`
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**`[ACTIVE]`**
+
+🔬 AI-assisted vuln discovery systems  
+🧠 Exploit reasoning & chain building  
+📋 CVE analysis & adaptation  
+🌐 Web & protocol-level weaknesses  
+⚙️ Manual + automated recon pipelines
+
+</td>
+<td align="center" width="50%">
+
+**`[INTERESTS]`**
+
+🔓 Auth & Authorization Bypass  
+🧩 Business Logic Exploitation  
+🪪 IDOR / Access Control Failures  
+🌉 Protocol & Consensus Attacks  
+☁️ Cloud / DNS / Infra Misconfigs
+
+</td>
+</tr>
+</table>
 
 ---
 
-⚡ **"Watching from the shadows"** 🕶️
+<div align="center">
+
+### `cat /etc/tools.conf`
+
+</div>
+
+<div align="center">
+
+| Layer | Tools |
+|:------|:------|
+| ![Recon](https://img.shields.io/badge/RECON-█████████░-00ff41?style=flat-square&labelColor=0d0d0d) | `nmap` &nbsp; `subfinder` &nbsp; `amass` &nbsp; `httpx` |
+| ![Web](https://img.shields.io/badge/WEB_TESTING-████████░░-00cc33?style=flat-square&labelColor=0d0d0d) | `burpsuite` &nbsp; `ffuf` &nbsp; `dirsearch` |
+| ![OS](https://img.shields.io/badge/WORKFLOW-██████████-009922?style=flat-square&labelColor=0d0d0d) | `linux-cli` &nbsp; `manual+automation hybrid` |
+
+</div>
+
+---
+
+<div align="center">
+
+### `grep -r "CVE" ~/disclosures/ --color`
+
+</div>
+
+> **Terminal Output:** Scanning vulnerability database...
+
+<br/>
+
+<details open>
+<summary><b>🔴 CRITICAL SEVERITY</b></summary>
+
+<br/>
+
+```
+[CVE-2026-42278] ════════════════════════════════════════ CRITICAL
+  TARGET   : Smart Account — Spending Policy Engine
+  VECTOR   : Pocket-based policy enforcement bypass
+  IMPACT   : Unauthorized spending paths activated
+  STATUS   : DISCLOSED
+─────────────────────────────────────────────────────────────────
+[CVE-2026-40583] ════════════════════════════════════════ CRITICAL
+  TARGET   : SmartOp Protocol — Vote Path Handler
+  VECTOR   : Fatal supply invariant violation trigger
+  IMPACT   : Full protocol halt, DoS
+  STATUS   : DISCLOSED
+─────────────────────────────────────────────────────────────────
+[CVE-2026-41261] ════════════════════════════════════════ CRITICAL  *(Draft)*
+  TARGET   : Name Registry — Sponsored Transaction Layer
+  VECTOR   : Authentication bypass via tx sponsorship abuse
+  IMPACT   : Unauthorized identity control
+  STATUS   : DRAFT
+─────────────────────────────────────────────────────────────────
+[CVE-2026-41204] ════════════════════════════════════════ CRITICAL  *(Draft)*
+  TARGET   : Cross-Chain Bridge — Validator Trust Model
+  VECTOR   : Single-validator centralization flaw
+  IMPACT   : Unilateral draining of bridge reserves
+  STATUS   : DRAFT
+```
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🟠 HIGH SEVERITY</b></summary>
+
+<br/>
+
+```
+[CVE-2025-66628] ════════════════════════════════════════ HIGH
+  TARGET   : ImageMagick — TIM Decoder (32-bit)
+  VECTOR   : Integer overflow → OOB read
+  IMPACT   : Memory disclosure, potential exploitation
+  PACKAGE  : Magick.NET-Q16-AnyCPU (NuGet)
+  STATUS   : DISCLOSED
+─────────────────────────────────────────────────────────────────
+[CVE-2026-41260] ════════════════════════════════════════ HIGH  *(Draft)*
+  TARGET   : Governance Module — Adaptive Quorum Logic
+  VECTOR   : Partial mitigation bypass
+  IMPACT   : Continued quorum logic exploitation
+  STATUS   : DRAFT
+```
+
+</details>
+
+---
+
+<div align="center">
+
+### `cat methodology.sh && ./run`
+
+</div>
+
+```bash
+#!/bin/bash
+# HACKSAGE Methodology — executed in sequence
+
+function recon()       { echo "[*] Surface mapping — no blind scanning"; }
+function validate()    { echo "[*] Manual validation — every finding confirmed by hand"; }
+function automate()    { echo "[*] Automation deployed as force multiplier, not crutch"; }
+function exploit()     { echo "[*] Deep exploitation — impact over volume"; }
+function chain()       { echo "[*] Chain and weaponize — root cause → reproduction → PoC"; }
+function report()      { echo "[+] High-signal report delivered"; }
+
+recon && validate && automate && exploit && chain && report
+```
+
+---
+
+<div align="center">
+
+### `cat learning_pipeline.log`
+
+</div>
+
+```
+[TRACK 01] Networking  ──► Protocol Internals  ──► Deep Packet Analysis
+[TRACK 02] Web         ──► Advanced Exploitation ──► Logic & Auth Chains
+[TRACK 03] Programming ──► Tool Engineering      ──► Pipeline Automation
+[TRACK 04] CVE Study   ──► Root Cause Analysis   ──► Reproduction & Chain
+```
+
+---
+
+<div align="center">
+
+### `htop` — GitHub Activity
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumitshah00&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00cc33&text_color=cccccc&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitshah00&layout=compact&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=cccccc)
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sumitshah00&theme=terminal&background=0d0d0d&border=00ff41&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00ff41&dates=666666&sideNums=cccccc&currStreakNum=00ff41)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                   [ OPERATIONAL CREED ]                  ║
+║                                                          ║
+║   "Break systems deliberately. Understand them fully.    ║
+║    Report with proof. Ship the impact."                  ║
+║                                                          ║
+║              — HACKSAGE | Sumit Shah                     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+</div>
